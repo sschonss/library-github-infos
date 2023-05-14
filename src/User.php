@@ -10,12 +10,6 @@ class User
 
     protected $biography;
 
-    protected $number_of_repositories;
-
-    protected $number_of_followers;
-
-    protected $number_of_following;
-
     protected $number_of_stars;
 
 
